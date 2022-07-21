@@ -2,6 +2,8 @@ import math
 from math import sqrt
 
 print(">>>")
+print(">>>")
+
 s1 = int(input("1st Number: "))
 s2 = int(input("2nd Number: "))
 s3 = input("Operator: ")
